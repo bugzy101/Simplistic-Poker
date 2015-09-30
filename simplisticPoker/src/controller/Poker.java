@@ -171,13 +171,14 @@ public class Poker {
 
 public static void main(String[] args){
 	
+	while(true){
 	//System.out.println("")
 	promptPlayers();
 	Poker poker = new Poker();
 	poker.dealCards();
 	showCards();
 	checkWinner();
-	
+	}
 }
 
 }
