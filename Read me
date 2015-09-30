@@ -2,7 +2,7 @@ Name: Amuka Henry Chukwunonso
 ID: 100864669
 
 
-To Start the game, run the poker.java class.
+To Start the game, run the poker.java class in the controller folder.
 The test files: 
 AllTests.java
 cardTest.java
