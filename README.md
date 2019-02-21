@@ -1,2 +1,2 @@
 # Simplistic-Poker
-Comp 4004 Assignment1
+A Poker Game served on the web.
