@@ -1,2 +1,2 @@
 # Simplistic-Poker
-A Poker Game served on the web.
+A Poker Game written in java with Quality Assurance Testing using Junit.
